@@ -1,0 +1,100 @@
+Surprisingly , high inflammation markers before treatment were associated with better clinical outcome and faster remission .
+O O B-C B-CS B-VC B-CS I-CS O B-CON I-CON B-EF B-ES B-VE O B-EF B-VE O
+Plasmodium yoelii - infected erythrocytes induce a broad inhibitory effect rendering DC non-responsive to ligands for TLR2 , TLR3 , TLR4 , TLR5 , TLR7 and TLR9 .
+B-CS I-CS O B-C B-VC B-CON O B-ES I-ES B-EF O B-VE O O O O O O O O O O O O O O O O
+Alcohol use among youth is affected by a range of psychosocial and environmental factors .
+B-ES B-VE O B-ES O B-EF O O O O B-CS I-CS I-CS B-VC O
+Mercury is a global pollutant that bioaccumulates and biomagnifies in food chains and is associated with adverse effects in both humans and wildlife .
+B-VC O O O O O O O O O O O O O B-CON I-CON B-ES B-EF O O B-ES O B-ES O
+Daytime sleepiness in OSA patients was related to the severity of OSA as well as sleep propensity .
+B-CS B-VC O B-CS I-CS O B-CON I-CON O B-VE O B-ES O O O B-ES B-VE O
+These results show that supplementation with a fish-oil-derived concentrate can favorably influence selected cardiovascular disease risk factors , particularly by achieving marked reductions in serum triacylglycerol concentrations and triacylglycerol : HDL cholesterol in postmenopausal women receiving and not receiving HRT .
+O O O O B-C O O B-CS B-VC O O B-CON O B-ES I-ES I-ES B-VE O O O B-CON O B-EF O B-ES I-ES B-VE O O O O O O B-ES I-ES O O O O O O
+We demonstrate that obesity is a risk factor for developing severe AP.
+O O O B-VC O O B-CON I-CON I-CON B-EF B-ES B-VE
+As Mexico and other countries emerge as developed economies , industrialization is likely to result in broader and greater exposures to industrial chemicals .
+O O O O O O O O O O B-C O O O B-CON I-CON B-EF O B-EF B-VE O B-ES I-ES O
+High-frequency rTMS over the left DLPFC showed therapeutic effects in patients with major depression .
+B-CS B-VC O O B-CS I-CS O B-ES B-EF O B-VE O B-ES I-ES O
+Our analyses show that cash transfers improve retention in prevention of mother-to-child transmission services mainly by mitigating the negative effect of not having money to come to the clinic .
+O O O O B-VC B-C B-EF B-VE O B-ES O B-ES I-ES I-ES O O O O O O O O O O O O O O O O
+During quiescent periods , larval zebrafish show reduced responsiveness to mechanical stimuli and delayed responses to sudden changes in light intensity , and quiescent adult zebrafish are less responsive to electrical stimuli .
+O B-C B-VC O B-ES I-ES O B-EF B-VE O B-ES I-ES O B-EF B-VE O B-ES I-ES I-ES I-ES I-ES O O O O O O O O O O O O
+Obesity influences maternal and fetal sHLA-G concentrations during pregnancy, to optimize the reproductive success, while preeclampsia impairs the mother-offspring antinflammatory response.
+B-VC B-CON B-ES I-ES I-ES I-ES B-VE O B-ES O O O O O O B-VC B-EF O B-ES I-ES B-VE
+The pleural fluid CRP levels are likely to reflect the serum levels because the presence of CRP in the pleural fluid may be due to increased diffusion from the blood as a result of inflamed capillary leakage .
+O O O O O O O O O O O O O O B-EF O B-VE O O B-ES I-ES O O B-CON I-CON B-EF B-VE O O B-ES O O B-CON I-CON B-CS B-VC B-C O
+The inactivation of GSK3 in OSCC may behave like an oncogene , and its gradual and sustained inactivation may promote oral cancer .
+O O O B-VC O O O O O O O O O O B-CS O B-CS B-C O B-CON B-ES B-VE O
+The efficiency and sensitivity of SLNB can be improved by combining ICG with blue dye.
+O B-VE O B-VE O B-ES O O B-EF O B-C B-VC O B-CS B-VC
+Since the development of HCC in HCV patients is as a result of cirrhosis of the liver , internal comparisons among the patient groups were done to determine whether the SNPs have any association with disease progression .
+O O B-EF O B-VE O B-ES I-ES O O O B-CON I-CON B-C O O B-VC O O O O O O O O O O O O O O O O O O O O O
+However, obesity seems to be associated with more wound complications.
+O B-VC O O O B-CON I-CON B-EF B-ES B-VE
+The results of this study suggest that Gua sha therapy was effective and safe in relieving perimenopausal symptoms and improving the quality of life in participants with perimenopausal syndrome .
+O O O O O O O B-VC B-CS B-C O O O O O B-EF B-ES B-VE O B-EF O B-VE O B-ES O B-ES I-ES I-ES I-ES O
+Consistent with these findings , fibulin-3 expression level correlated with the invasive ability of several bladder cancer cell lines and modulation of fibulin-3 expression directly affected invasion .
+O O O O O B-CS I-CS B-VC B-CON I-CON O B-ES B-VE O O B-ES I-ES I-ES I-ES O B-C O B-CS B-VC O B-EF B-VE O
+It should be noted that all the models are not a perfect fit and are used to demonstrate how small changes in the cuticle structure can result in different optical spectra .
+O O O O O O O O O O O O O O O O O O O O B-C O O B-CS B-VC O B-CON I-CON B-EF B-ES B-VE O
+Diabetes is associated with an increased risk of hearing loss, and this difference is manifest particularly in adults 50 years old.
+B-VC O B-CON I-CON O B-EF B-VE O B-ES I-ES O O O O O O O B-ES I-ES I-ES I-ES
+However , it did not reduce the infarct size when assessed by MRI and cardiac enzyme .
+O O B-VC B-CON I-CON B-EF O B-ES B-VE O O O O O O O O
+Sizeable reductions in BP , with potential for substantial CVD reduction , can be safely achieved using combinations of BP drugs in the elderly with normal high and Stage 1 hypertension .
+B-ES B-EF O B-VE O O O O B-ES B-VE B-EF O O O O B-CON O B-C O B-CS B-VC O O B-CS I-CS I-CS I-CS I-CS I-CS I-CS I-CS O
+Hence , it is now believed that CD154 , through its involvement in the production of chemokines , cytokines , MMPs , adhesion molecules , and growth factors , contributes to pannus formation and perpetuation of inflammation in RA .
+O O O O O O O B-VC O O O O O O O O O O O O O O O O O O O O O B-CON I-CON B-VE B-EF O B-EF O B-VE O B-ES O
+These processes are triggered by different extracellular stimuli leading to activation of protein phosphorylation .
+O B-VE O B-CON I-CON B-C B-CS B-VC B-CON I-CON B-EF O B-ES B-VE O
+Whereas CLA had positive effects on HDL metabolism and fibrinogen , a therapeutic nutrient should not be associated with potentially adverse effects on other clinical markers of type 2 diabetes .
+O B-VC O B-ES B-EF O B-ES B-VE O B-VE O O O O O O O O O O O O O O O O O O O O O
+This proof-of-concept study demonstrates that older cancer patients with CIPN can significantly improve their postural balance with specifically tailored , sensor-based exercise training .
+O O O O O B-ES I-ES I-ES I-ES I-ES O O B-EF O B-ES B-VE O B-CS I-CS O B-CS B-VC B-C O
+As no accumulation was predicted by the model , long-term exposure to lidocaine and its metabolites is not expected to lead to any safety concerns in post-herpetic neuralgia patients .
+O O O O O O O O O B-CS B-C O B-VC O O B-VC O B-CON I-CON I-CON I-CON I-CON O B-ES B-VE O B-ES I-ES I-ES O
+The sequential technique also minimizes the incidence of iris bleeding .
+O B-CS B-VC O B-EF O B-VE O B-ES I-ES O
+In the northern and central provinces , focal outbreaks over 2011-2015 revealed , through outbreak investigations , that causation of the outbreaks was mostly due to resident mobile workers in the northern provinces with relatively low immunity returning from the endemic southern provinces of Attapeu , Champasack , Sekong and Saravanh .
+O O O O O O O O O O O O O O O O O O O O O B-VE O O B-CON I-CON B-CS B-CS B-VC O O B-CS I-CS O B-CS I-CS I-CS B-C O O O O O O O O O O O O O O
+High miR-122 and miR-222 ratios in pig livers were also associated with high aspartate aminotransferase levels after warm oxygenated reperfusion .
+B-C B-CS O B-CS B-VC O B-CS I-CS O O B-CON I-CON B-EF B-ES I-ES B-VE O B-ES I-ES I-ES O
+Omega-3 and omega-6 FA intakes are inversely associated with inflammatory biomarkers among CVD patients.
+B-CS O B-CS B-VC B-C O B-CON I-CON I-CON B-ES B-VE O B-ES I-ES
+In swimming pools , anthropogenic organic loads brought by swimmers increase the complexity of pool water chemistry .
+O O O O B-CS B-CS B-VC B-C O B-CS B-EF O B-VE O B-ES I-ES I-ES O
+Pertuzumab significantly improved the rates of invasive-disease-free survival among patients with HER2-positive, operable breast cancer when it was added to trastuzumab and chemotherapy.
+B-VC O B-EF O B-VE O B-ES I-ES O B-ES I-ES I-ES I-ES I-ES I-ES O O O B-C O B-CS I-CS I-CS
+Recent study suggests that cholesterolosis is somehow associated with metaplasia.
+O O O O B-VC O O B-CON I-CON B-VE
+On one hand , this may look counterintuitive , as VEGF is regulated by HIF1a , just like SDF1 and CXCR4 , but on the other hand these regulatory networks in vivo are subject to many interactions and apparently in PM , other regulation mechanisms , including oncogenes , of VEGF expression prevail over HIF1a .
+O O O O O O O O O O B-VE O B-EF O B-VC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Most POPs were positively but not significantly associated with incident diabetes.
+O B-VC O O O O O B-CON I-CON B-EF B-VE
+Linezolid is effective at achieving culture conversion among patients with treatment-refractory XDR pulmonary tuberculosis , but patients must be monitored carefully for adverse events .
+B-VC O O O B-CON B-VE B-EF O B-ES I-ES I-ES I-ES I-ES I-ES O O O O O O O O O O O
+POC positioning of the Xpert test led to more rapid initiation of appropriate TB treatment .
+B-CS B-C O O B-CS B-VC B-CON I-CON B-ES B-EF B-VE O B-ES I-ES I-ES O
+Higher circulating AMH levels are associated with increased breast cancer risk among premenopausal women.
+B-C B-CS I-CS B-VC O B-CON I-CON B-EF B-ES I-ES B-VE O B-ES I-ES
+Heavy metals are a group of such compounds , which can accumulate in fish leading to developmental abnormalities , reduced growth , and increased rates of mortality .
+B-CS B-VC O O O O O O O O O B-C O B-CS B-CON I-CON B-ES B-VE O B-EF B-VE O O B-EF B-VE O B-ES O
+In addition , changing medication from PT to NPT might improve subjective satisfaction and tear break up time .
+O O O B-C B-VC O B-CS O B-CS O B-EF B-ES B-VE O B-ES I-ES I-ES I-ES O
+Hypoperfusion appears to be the consequence of a decrease of neuronal functioning and metabolic needs.
+B-VE O O O O B-CON I-CON O B-C O B-CS B-VC O B-CS B-VC
+Despite inducing a superior time to progression , long-term follow-up revealed that PLD-bortezomib did not improve OS compared with bortezomib alone in patients with relapsed and refractory multiple myeloma .
+O O O O O O O O O O O O B-VC B-CON I-CON B-EF B-VE O O O O O B-ES I-ES I-ES I-ES I-ES I-ES I-ES O
+The presence of PU is also related to adverse outcomes, such as MV duration and ICU and hospital mortality.
+O B-C O B-VC O O B-CON I-CON B-EF B-VE O O O O O O O O O
+PTCRA is the member of the pre-T-cell receptor complex , which regulates early T-cell development .
+B-VC O O O O O O O O O O B-EF B-ES I-ES B-VE O
+Sevoflurane affected SSEP recordings in a dose-dependent fashion .
+B-VC B-EF B-ES B-VE O O B-ES I-ES O
+Dietary intake of protein, carbohydrate, cholesterol and energy might be not independently associated with PD risk.
+B-CS B-C O B-VC B-VC B-VC O B-VC O O O O B-CON I-CON B-ES B-VE
+Furthermore , there was a significant difference in the angiogenic response induced by hypoxic supernatants relative to normoxic supernatants .
+O O O O O O B-EF O O B-ES B-VE B-CON O B-C B-VC O O O O O
+Ezetimibe increased the efficiency of reverse cholesterol transport from rapidly mixing plasma and tissue pools into the stool.
+B-VC B-EF O B-VE O B-ES I-ES I-ES O B-ES I-ES I-ES I-ES I-ES I-ES O O O

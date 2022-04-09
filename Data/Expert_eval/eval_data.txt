@@ -1,0 +1,242 @@
+
+Sentence 1:
+
+https://pubmed.ncbi.nlm.nih.gov/34772799/  
+Increased mean systolic BP levels in the first 24 hours after EVT are independently associated with a higher odds of symptomatic intracranial hemorrhage, early neurological deterioration, three-month mortality, and worse three-month functional outcomes.
+Increased B-C
+mean B-CS
+systolic I-CS
+BP I-CS
+levels B-VC
+in O
+the O
+first B-CS
+24 I-CS
+hours I-CS
+after I-CS
+EVT I-CS
+are O
+independently O
+associated B-CON
+with I-CON
+a O
+higher B-EF
+odds B-VE
+of O
+symptomatic B-ES
+intracranial I-ES
+hemorrhage, I-ES
+early B-ES
+neurological I-ES
+deterioration, I-ES
+three-month B-ES
+mortality, I-ES
+and O
+worse B-EF
+three-month B-ES
+functional I-ES
+outcomes. B-VE
+
+Sentence 2:
+https://pubmed.ncbi.nlm.nih.gov/34772739/
+Thus, Gli1 regulates the development and is required to maintain the endoneurial architecture of peripheral nerves.
+Thus, O
+Gli1 B-VC
+regulates B-EF
+the O
+development B-VE
+and O
+is O
+required B-CON
+to I-CON
+maintain B-EF
+the O
+endoneurial B-ES
+architecture B-VE
+of O
+peripheral B-ES
+nerves. I-ES
+
+Sentence 3:
+https://pubmed.ncbi.nlm.nih.gov/34759053/
+n the present study, higher DII scores (indicating greater pro-inflammatory diet potential) were associated with an increased risk for incident dementia. 
+In O
+the O
+present O
+study, O
+higher B-C
+DII B-CS
+scores B-VC
+(indicating O
+greater O
+pro-inflammatory O
+diet O
+potential) O
+were O
+associated B-CON
+with I-CON
+an O
+increased B-EF
+risk B-VE
+for O
+incident B-ES
+dementia. I-ES
+
+Sentence 4:
+https://pubmed.ncbi.nlm.nih.gov/34748636/
+PTB and infection, but not prepregnancy BMI, alter placental expression of MDR transporters and IL-6.
+PTB B-VC
+and O
+infection, B-C
+but O
+not O
+prepregnancy O
+BMI, O
+alter B-EF
+placental B-ES
+expression B-VE
+of O
+MDR B-ES
+transporters I-ES
+and O
+IL-6. B-ES
+
+Sentence 5:
+https://pubmed.ncbi.nlm.nih.gov/34748624/
+We found that among individuals without diabetes or other traditional ASCVD risk factors, there is an increased risk of incident CVD with increasing abnormal FPG levels. 
+We O
+found O
+that O
+among O
+individuals B-CS
+without O
+diabetes O
+or O
+other O
+traditional O
+ASCVD O
+risk O
+factors, O
+there O
+is O
+an O
+increased B-EF
+risk B-VE
+of O
+incident B-ES
+CVD I-ES
+with O
+increasing B-C
+abnormal B-CS
+FPG I-CS
+levels. B-VC
+
+Sentence 6:
+https://pubmed.ncbi.nlm.nih.gov/34741460/
+In a large cohort of adults with type 2 diabetes, severe hypoglycemia was independently associated with greater risk of incident HF.
+In O
+a O
+large O
+cohort O
+of O
+adults O
+with O
+type O
+2 I-CS
+diabetes, O
+severe B-C
+hypoglycemia B-VC
+was O
+independently O
+associated B-CON
+with I-CON
+greater B-EF
+risk B-VE
+of O
+incident B-ES
+HF. I-ES
+
+Sentence 7:
+https://pubmed.ncbi.nlm.nih.gov/34746932/
+Periodontitis is associated with increased CVD risk, but is not an independent risk factor.
+Periodontitis B-VC
+is O
+associated B-CON
+with I-CON
+increased B-EF
+CVD B-ES
+risk, B-VE
+but O
+is O
+not O
+an O
+independent O
+risk O
+factor. O
+
+Sentence 8:
+https://pubmed.ncbi.nlm.nih.gov/34728259/ 
+CMR-FT derived GLS is a powerful independent predictor of MACE in patients with HCM
+CMR-FT B-CS
+derived O
+GLS B-VC
+is O
+a O
+powerful O
+independent O
+predictor B-CON
+of I-CON
+MACE B-VE
+in O
+patients B-ES
+with I-ES
+HCM, I-ES
+
+Sentence 9:
+https://pubmed.ncbi.nlm.nih.gov/34728260/ 
+However, elevated RAAS is a marker of more advanced stages of heart failure, is related to low natriuresis and adverse clinical outcomes.
+However, O
+elevated B-C
+RAAS B-VC
+is O
+a O
+marker O
+of O
+more O
+advanced O
+stages O
+of O
+heart O
+failure, O
+is O
+related B-CON
+to I-CON
+low B-EF
+natriuresis B-VE
+and O
+adverse B-EF
+clinical B-ES
+outcomes. B-VE
+
+Sentence 10:
+https://pubmed.ncbi.nlm.nih.gov/34838827/
+In patients with CCM, higher DHEA-S levels were associated with lower mortality, heart transplantation, and LVAD implantation. 
+In O
+patients B-CS
+with I-CS
+CCM, I-CS
+higher B-C
+DHEA-S B-CS
+levels B-VC
+were O
+associated B-CON
+with I-CON
+lower B-EF
+mortality, B-VE
+heart B-ES
+transplantation, I-ES
+and O
+LVAD B-ES
+implantation. B-VE
+
+
